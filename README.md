@@ -34,7 +34,7 @@ I'm a data enthusiast with a strong background in Data Processing and Quality As
 - Data Visualization
 - Continuous Learning and Development
 
-### Certifications:
+### 🎓 Certifications:
 - [Data Science Bootcamp](https://drive.google.com/file/d/1xRyF4cRqCFAGG7ZAkbpmAoZjc9HjeYur/view) (Jan 2024) (upGrad-GOLDEN GATE UNIVERSITY SAN FRANCISCO)
 - [Data Analytics Specialization Training](https://drive.google.com/file/d/15wu0FRokLg5Y0j1TgYM-kq0_bHsqQtov/view) (May 2023) (Trainity)
 - [Data Analytics LIVE project](https://drive.google.com/file/d/17UDJgxZ8VULcyGEkKXExeryhwfbBeXKj/view) (March 2023) (Trainity)
