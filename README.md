@@ -14,6 +14,5 @@ Here are some ideas to get you started: -->
 
 📈 Skills and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=excel,mysql,tableau,python)](https://skillicons.dev)
-
+!(https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F34%2FMicrosoft_Office_Excel_%25282019%25E2%2580%2593present%2529.svg%2F1101px-Microsoft_Office_Excel_%25282019%25E2%2580%2593present%2529.svg.png&tbnid=7nudeqO_cIOhPM&vet=12ahUKEwjE1bKVr_uGAxUD9qACHXY1BRIQMygAegQIARBH..i&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AMicrosoft_Office_Excel_(2019%25E2%2580%2593present).svg&docid=g4jfCsZWP8CkFM&w=1101&h=1024&q=excel%20logo%202021&hl=en&ved=2ahUKEwjE1bKVr_uGAxUD9qACHXY1BRIQMygAegQIARBH)
 
