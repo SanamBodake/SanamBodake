@@ -6,18 +6,24 @@
 Here are some ideas to get you started: -->
 🤵‍♀️ ABOUT ME:
 
-I'm an experienced Analyst with a strong background in SQL and Advanced Excel. With a passion for data analysis and problem-solving, I specialize in extracting meaningful insights from complex datasets to drive business decisions.
+I'm a data enthusiast with a strong background in Data Processing and Quality Assurance, proficient in SQL and Advanced Excel. I have a passion for data analysis and problem-solving, with aspirations to become a Data Scientist.
 
 💼 Professional Experience:
-- Extensive experience in data analysis, reporting, and dashboard creation using Advanced Excel.
+- Extensive experience in data processing, ensuring data accuracy and consistency.
 - Proficient in SQL for data querying, manipulation, and database management.
-- Hands-on experience in the media domain, analyzing trends, and optimizing content strategies.
+- Hands-on experience in quality assurance, developing and implementing data validation processes.
+- Experience in the media domain, analyzing trends, and optimizing content strategies.
 
 📈 Skills and Tools:
 
 ![](https://go-skill-icons.vercel.app/api/icons?i=excel,mysql,sqlserver,python,tableau,numpy,pandas,matplotlib)
 
 
-
+🚀 Interests:
+- Data Science
+- Machine Learning
+- Business Intelligence
+- Data Visualization
+- Continuous Learning and Development
 
 
