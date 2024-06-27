@@ -14,7 +14,7 @@ Here are some ideas to get you started: -->
 
 📈 Skills and Tools:
 
-![](https://go-skill-icons.vercel.app/api/icons?i=excel,mysql,python,tableau,numpy,pandas,matplotlib)
+![](https://go-skill-icons.vercel.app/api/icons?i=excel,mysql,mssqlserver,python,tableau,numpy,pandas,matplotlib)
 
 
 
