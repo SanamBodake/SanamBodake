@@ -14,7 +14,7 @@ Here are some ideas to get you started: -->
 
 📈 Skills and Tools:
 
-![image](https://github.com/SanamBodake/SanamBodake/assets/73472725/5e3c2c17-5408-4d3a-ba19-cc3bdf422234) ![image](https://github.com/SanamBodake/SanamBodake/assets/73472725/4bc5f56d-422b-48bb-b083-e2066aa9c756)
+[My Skills](https://go-skill-icons.vercel.app/api/icons?i=excel,python,yew&titles=true)
 
 
 
