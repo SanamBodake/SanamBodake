@@ -35,7 +35,7 @@ I'm a data enthusiast with a strong background in Data Processing and Quality As
 - Continuous Learning and Development
 
 ### Certifications:
-- [Data Science Bootcamp](https://drive.google.com/file/d/1xRyF4cRqCFAGG7ZAkbpmAoZjc9HjeYur/view)(Jan 2024)(UpGrad)
-- [Data Analytics Specialization Training](https://drive.google.com/file/d/15wu0FRokLg5Y0j1TgYM-kq0_bHsqQtov/view)(May 2023)(Trainity)
-- [Data Analytics LIVE project](https://drive.google.com/file/d/17UDJgxZ8VULcyGEkKXExeryhwfbBeXKj/view)(March 2023)(Trainity)
-- [PYTHON-DATA STRUCTURES-MACHINE LEARNING](https://drive.google.com/file/d/1jBLpVyfxmdQmQJEWQ_iB77yNLTg6-dRu/view)(March 2021)(Perfect Plan B)
+- [Data Science Bootcamp](https://drive.google.com/file/d/1xRyF4cRqCFAGG7ZAkbpmAoZjc9HjeYur/view) (Jan 2024) (upGrad-GOLDEN GATE UNIVERSITY SAN FRANCISCO)
+- [Data Analytics Specialization Training](https://drive.google.com/file/d/15wu0FRokLg5Y0j1TgYM-kq0_bHsqQtov/view) (May 2023) (Trainity)
+- [Data Analytics LIVE project](https://drive.google.com/file/d/17UDJgxZ8VULcyGEkKXExeryhwfbBeXKj/view) (March 2023) (Trainity)
+- [PYTHON-DATA STRUCTURES-MACHINE LEARNING](https://drive.google.com/file/d/1jBLpVyfxmdQmQJEWQ_iB77yNLTg6-dRu/view) (March 2021) (Perfect Plan B)
