@@ -13,6 +13,7 @@ Here are some ideas to get you started: -->
 - Hands-on experience in the media domain, analyzing trends, and optimizing content strategies.
 
 📈 Skills and Tools:
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,wasm)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=excel,mysql,tableau,python)](https://skillicons.dev)
 
 
