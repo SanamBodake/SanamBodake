@@ -22,7 +22,7 @@ I'm a data enthusiast with a strong background in Data Processing and Quality As
 - Data Analysis: Statistical Analysis, Trend Analysis, Predictive Modeling
 - Reporting & Dashboards: Creating comprehensive reports and interactive dashboards
 
-### Tools:
+### 💻 Tools:
 
 ![](https://go-skill-icons.vercel.app/api/icons?i=excel,mysql,sqlserver,python,tableau,numpy,pandas,matplotlib,scikitlearn,mongodb)
 
