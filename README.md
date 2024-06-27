@@ -20,6 +20,7 @@ I'm a data enthusiast with a strong background in Data Processing and Quality As
 - Data Processing: Data Cleansing, Data Transformation
 - Quality Assurance: Data Validation, Testing, Process Improvement
 - Data Analysis: Statistical Analysis, Trend Analysis, Predictive Modeling
+- Reporting & Dashboards: Creating comprehensive reports and interactive dashboards
 
 Tools:
 
