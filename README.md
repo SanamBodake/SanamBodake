@@ -23,7 +23,7 @@ I'm a data enthusiast with a strong background in Data Processing and Quality As
 
 Tools:
 
-![](https://go-skill-icons.vercel.app/api/icons?i=excel,mysql,sqlserver,python,tableau,numpy,pandas,matplotlib,scikitlearn,jupyter)
+![](https://go-skill-icons.vercel.app/api/icons?i=excel,mysql,sqlserver,python,tableau,numpy,pandas,matplotlib,scikitlearn,mongodb)
 
 
 🚀 Interests:
